@@ -3,3 +3,5 @@ Questa web app è un Curriculum Vitae interattivo progettato per presentare in m
 
 ## Anteprima della Web App
 ![Anteprima della Web App](img/preview.png) 
+
+![Anteprima della Web App](img/preview1.png) 
